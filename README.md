@@ -1,5 +1,5 @@
-# PortfolioProjects - Covid19 
-This project analyses Covid19 data to understand the statistics as of April 2023 and the forecast for specific countries. 
+# Data Exploration - Covid19 
+This project explored and analyses Covid19 data to understand the statistics as of April 2023 and the forecast for specific countries. 
 ## The Dataset
 The dataset was obtained from a [public database](https://ourworldindata.org/covid-deaths), and specific columns were extracted based on the requirement of the project. The dataset was exported in CSV files and imported into SSMS for analysis. 
 ## Analysis
